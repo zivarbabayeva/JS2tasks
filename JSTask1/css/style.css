@@ -1,0 +1,12 @@
+
+ #first{
+    width: 800px;
+    height: 800px;
+    background-image: url(/image/how-to-use-confirm-alert-in-javascript-.jpg);
+  background-repeat: no-repeat;
+} 
+button{
+    padding: 5px 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
